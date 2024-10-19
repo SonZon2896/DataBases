@@ -1,0 +1,163 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.8.0">
+  <diagram name="Страница — 1" id="W4HEZuL9qaBWg7W_zagM">
+    <mxGraphModel dx="1434" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xgw6wA78LRQt6bMhunA1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-1" target="xgw6wA78LRQt6bMhunA1-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-1" target="xgw6wA78LRQt6bMhunA1-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-1" value="Сдача началась" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-30" target="xgw6wA78LRQt6bMhunA1-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-30" target="xgw6wA78LRQt6bMhunA1-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-30" value="Вы уверены в себе" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-31" target="xgw6wA78LRQt6bMhunA1-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="534" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-31" target="xgw6wA78LRQt6bMhunA1-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-31" value="Сдача будет тяжелой" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-34" value="Вы готовились" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="244" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-35" value="Препод злой" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="489" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-36" target="xgw6wA78LRQt6bMhunA1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-36" value="Вы не сдали теор часть" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-37" target="xgw6wA78LRQt6bMhunA1-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-37" target="xgw6wA78LRQt6bMhunA1-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-37" value="Вы сдали теор часть" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-41" value="Вам не повезло с вопросами" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="258" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-42" value="Вам повезло с вопросами" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="209" y="348" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-43" value="Вы сдали практ часть" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-47" target="xgw6wA78LRQt6bMhunA1-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="585" />
+              <mxPoint x="70" y="130" />
+              <mxPoint x="414" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-47" value="Вы не сдали практ часть" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-48" value="Вы хоть раз едили на машине" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="299" y="508" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-49" value="Вы не знаете что такое машина" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="478" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-51" value="Вы идете на пересдачу" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-53" value="Вы сдали экзамен!&lt;div&gt;Покупайте жигули и катайтесь!&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-59" target="xgw6wA78LRQt6bMhunA1-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="534" y="538" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-59" target="xgw6wA78LRQt6bMhunA1-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-59" value="Вы сдали теор часть" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="378" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-60" value="У вас есть деньги" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-62" target="xgw6wA78LRQt6bMhunA1-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="408" />
+              <mxPoint x="790" y="130" />
+              <mxPoint x="414" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-62" value="Вы не сдали теор часть" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="378" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-64" value="У вас не оказалось денег" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="260" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-66" value="Вы идете на пересдачу" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-71" target="xgw6wA78LRQt6bMhunA1-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-71" value="Тюрьма" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="538" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-72" value="Вы не сбили пешехода" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="585" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-73" value="Вы сбили пешехода" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="579" y="458" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-75" value="Вы вышли из тюрьмы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="615" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgw6wA78LRQt6bMhunA1-76" target="xgw6wA78LRQt6bMhunA1-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="690" />
+              <mxPoint x="790" y="130" />
+              <mxPoint x="414" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgw6wA78LRQt6bMhunA1-76" value="Вам все еще нужны права" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
